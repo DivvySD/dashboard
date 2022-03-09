@@ -123,6 +123,14 @@
         "divvyFund": 0
     },
     {
+        "contract": "0x9330720d5d6401941B736Ca9FC981437521D7275",
+        "name": "Touro",
+        "symbol": "TOURO",
+        "primary": "#E6AD00",
+        "secondary": "#fff",
+        "divvyFund": 0
+    },
+    {
         "contract": "0x0B1965f78A6c6AF29A65C36A923d015b495d5bcf",
         "name": "Alien Cult",
         "symbol": "SAOM",
