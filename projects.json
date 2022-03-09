@@ -1,0 +1,141 @@
+[
+    {
+        "contract": "0xa3D522c151aD654b36BDFe7a69D0c405193A22F9",
+        "name": "ROX Token",
+        "symbol": "ROX",
+        "primary": "#000",
+        "secondary": "#FFF",
+        "divvyFund": 0.146495905,
+        "bypassMin": true
+    },
+    {
+        "contract": "0xe9490A983292bD844074Ac3e83c3cb408f578b61",
+        "name": "Divvy",
+        "symbol": "DIVVY",
+        "primary": "#872eff",
+        "secondary": "#FFF",
+        "divvyFund": 900000000000,
+        "bypassMin": true,
+    },
+    {
+        "contract": "0xD6C8dd77411dc9B5FA8327063Cb2e671E243f419",
+        "name": "MESK",
+        "symbol": "$MESK",
+        "primary": "#f8d207",
+        "secondary": "#fff",
+        "divvyFund": 55000,
+        "bypassMin": true,
+    },
+    {
+        "contract": "0xCD409c394c126C96806D501FaeAb7e6dB0A74E10",
+        "name": "BunnyDoge",
+        "symbol": "BND",
+        "primary": "#614303",
+        "secondary": "#fff",
+        "divvyFund": 295728878,
+        "bypassMin": true
+    },
+    {
+        "contract": "0xCfE058c0646c0Eec7e042744D9B8787d0f047a34",
+        "name": "DEGEN TRADERS",
+        "symbol": "DEGEN",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 617202,
+        "bypassMin": true
+    },
+    {
+        "contract": "0x288E1425395ffC5445013ce22856901F78Cd9851",
+        "name": "Family Token",
+        "symbol": "DOM",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 5362,
+        "bypassMin": true
+    },
+    {
+        "contract": "0x97d839ac3Ed733d7FD0d353d4573f7fb02d7A8E3",
+        "name": "Frontline Heroes Token",
+        "symbol": "FHT",
+        "primary": "#02008d",
+        "secondary": "#fff",
+        "divvyFund": 1370,
+        "bypassMin": true
+    },
+    {
+        "contract": "0x1C9F1de07E8F65Ee0A96e616F705735a1D0B031b",
+        "name": "Go Green Global",
+        "symbol": "GGGSMART",
+        "primary": "#0c7504",
+        "secondary": "#fff",
+        "divvyFund": 2
+    },
+    {
+        "contract": "0x6A6014231B86e111974a07842e4D5e29c7F01bD1",
+        "name": "Hold & Win",
+        "symbol": "HAW",
+        "primary": "#bababa",
+        "secondary": "#fff",
+        "divvyFund": 8.97
+    },
+    {
+        "contract": "0xf451CeD7a5C052532a2Cf635E80CCA65C357628F",
+        "name": "MOON SmartDeFi",
+        "symbol": "MOON",
+        "primary": "#018378",
+        "secondary": "#fff",
+        "divvyFund": 837686,
+        "bypassMin": true
+    },
+    {
+        "contract": "0x383A948C3B33A5F951A5f57c01DE4F192522Afe0",
+        "name": "Smart Ants",
+        "symbol": "SANTS",
+        "primary": "#27c3d8",
+        "secondary": "#fff",
+        "divvyFund": 155,
+        "bypassMin": true
+    },
+    {
+        "contract": "0x252C41c6de973e4D31c770ED6a211BFAA699eB60",
+        "name": "Smart Inu",
+        "symbol": "SINU",
+        "primary": "#1b93fb",
+        "secondary": "#FFF",
+        "divvyFund": 6982113828,
+        "bypassMin": true
+    },
+    {
+        "contract": "0x3481Ae06214239A896c618Bb1C80E0E94Ab9D306",
+        "name": "The Kraken",
+        "symbol": "THEKRAKEN",
+        "primary": "#02a69c",
+        "secondary": "#fff",
+        "divvyFund": 2800,
+        "bypassMin": true
+    },
+    {
+        "contract": "0x61AF471DF5c3889de136fA0a17dA651FEDA83A88",
+        "name": "Wolfi Land",
+        "symbol": "WOLFILAND",
+        "primary": "#3bd553",
+        "secondary": "#fff",
+        "divvyFund": 1.1381
+    },
+    {
+        "contract": "0xC829525793D5b7Ae05a18dB663264edd7dfDba2b",
+        "name": "YIN & YANG",
+        "symbol": "YINCHI",
+        "primary": "#8c979d",
+        "secondary": "#000",
+        "divvyFund": 6.915542798
+    },
+    {
+        "contract": "0x0B1965f78A6c6AF29A65C36A923d015b495d5bcf",
+        "name": "Alien Cult",
+        "symbol": "SAOM",
+        "primary": "#ce1211",
+        "secondary": "#fff",
+        "divvyFund": 0
+    }
+]
