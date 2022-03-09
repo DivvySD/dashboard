@@ -145,5 +145,13 @@
         "primary": "#1890ba",
         "secondary": "#fff",
         "divvyFund": 230
+    },
+    {
+        "contract": "0x74a596ECB5603a9005e95ED71a6A2C55c042F91C",
+        "name": "12PIECES",
+        "symbol": "12PIECES",
+        "primary": "#feff0b",
+        "secondary": "#fff",
+        "divvyFund": 0
     }
 ]
