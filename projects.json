@@ -115,6 +115,14 @@
         "divvyFund": 230
     },
     {
+        "contract": "0x3f90b1556e23b5e922828Afc6E3D967Ae1bBFf58",
+        "name": "OnlyFEG",
+        "symbol": "0NLYFEG",
+        "primary": "#11ADEB",
+        "secondary": "#fff",
+        "divvyFund": 0
+    },
+    {
         "contract": "0x0B1965f78A6c6AF29A65C36A923d015b495d5bcf",
         "name": "Alien Cult",
         "symbol": "SAOM",
