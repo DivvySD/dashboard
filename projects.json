@@ -15,7 +15,7 @@
         "primary": "#872eff",
         "secondary": "#FFF",
         "divvyFund": 900000000000,
-        "bypassMin": true,
+        "bypassMin": true
     },
     {
         "contract": "0xD6C8dd77411dc9B5FA8327063Cb2e671E243f419",
@@ -24,7 +24,7 @@
         "primary": "#f8d207",
         "secondary": "#fff",
         "divvyFund": 55000,
-        "bypassMin": true,
+        "bypassMin": true
     },
     {
         "contract": "0xCD409c394c126C96806D501FaeAb7e6dB0A74E10",
