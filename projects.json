@@ -32,7 +32,7 @@
         "symbol": "BND",
         "primary": "#614303",
         "secondary": "#fff",
-        "divvyFund": 295728878,
+        "divvyFund": 295000000,
         "bypassMin": true
     },
     {
@@ -41,7 +41,7 @@
         "symbol": "DEGEN",
         "primary": "#000",
         "secondary": "#fff",
-        "divvyFund": 617202,
+        "divvyFund": 620000,
         "bypassMin": true
     },
     {
@@ -50,7 +50,7 @@
         "symbol": "DOM",
         "primary": "#000",
         "secondary": "#fff",
-        "divvyFund": 5362,
+        "divvyFund": 5000,
         "bypassMin": true
     },
     {
@@ -76,7 +76,7 @@
         "symbol": "HAW",
         "primary": "#bababa",
         "secondary": "#fff",
-        "divvyFund": 8.97
+        "divvyFund": 9
     },
     {
         "contract": "0xf451CeD7a5C052532a2Cf635E80CCA65C357628F",
@@ -84,7 +84,7 @@
         "symbol": "MOON",
         "primary": "#018378",
         "secondary": "#fff",
-        "divvyFund": 837686,
+        "divvyFund": 830000,
         "bypassMin": true
     },
     {
@@ -102,7 +102,7 @@
         "symbol": "SINU",
         "primary": "#1b93fb",
         "secondary": "#FFF",
-        "divvyFund": 6982113828,
+        "divvyFund": 6900000000,
         "bypassMin": true
     },
     {
