@@ -18,21 +18,12 @@
         "bypassMin": true
     },
     {
-        "contract": "0xD6C8dd77411dc9B5FA8327063Cb2e671E243f419",
-        "name": "MESK",
-        "symbol": "$MESK",
-        "primary": "#f8d207",
-        "secondary": "#fff",
-        "divvyFund": 55000,
-        "bypassMin": true
-    },
-    {
-        "contract": "0xCD409c394c126C96806D501FaeAb7e6dB0A74E10",
-        "name": "BunnyDoge",
-        "symbol": "BND",
-        "primary": "#614303",
-        "secondary": "#fff",
-        "divvyFund": 295000000,
+        "contract": "0x252C41c6de973e4D31c770ED6a211BFAA699eB60",
+        "name": "Smart Inu",
+        "symbol": "SINU",
+        "primary": "#1b93fb",
+        "secondary": "#FFF",
+        "divvyFund": 6900000000,
         "bypassMin": true
     },
     {
@@ -42,6 +33,15 @@
         "primary": "#000",
         "secondary": "#fff",
         "divvyFund": 620000,
+        "bypassMin": true
+    },
+    {
+        "contract": "0xCD409c394c126C96806D501FaeAb7e6dB0A74E10",
+        "name": "BunnyDoge",
+        "symbol": "BND",
+        "primary": "#614303",
+        "secondary": "#fff",
+        "divvyFund": 295000000,
         "bypassMin": true
     },
     {
@@ -63,22 +63,6 @@
         "bypassMin": true
     },
     {
-        "contract": "0x1C9F1de07E8F65Ee0A96e616F705735a1D0B031b",
-        "name": "Go Green Global",
-        "symbol": "GGGSMART",
-        "primary": "#0c7504",
-        "secondary": "#fff",
-        "divvyFund": 2
-    },
-    {
-        "contract": "0x6A6014231B86e111974a07842e4D5e29c7F01bD1",
-        "name": "Hold & Win",
-        "symbol": "HAW",
-        "primary": "#bababa",
-        "secondary": "#fff",
-        "divvyFund": 9
-    },
-    {
         "contract": "0xf451CeD7a5C052532a2Cf635E80CCA65C357628F",
         "name": "MOON SmartDeFi",
         "symbol": "MOON",
@@ -97,15 +81,6 @@
         "bypassMin": true
     },
     {
-        "contract": "0x252C41c6de973e4D31c770ED6a211BFAA699eB60",
-        "name": "Smart Inu",
-        "symbol": "SINU",
-        "primary": "#1b93fb",
-        "secondary": "#FFF",
-        "divvyFund": 6900000000,
-        "bypassMin": true
-    },
-    {
         "contract": "0x3481Ae06214239A896c618Bb1C80E0E94Ab9D306",
         "name": "The Kraken",
         "symbol": "THEKRAKEN",
@@ -113,6 +88,55 @@
         "secondary": "#fff",
         "divvyFund": 2800,
         "bypassMin": true
+    },
+    {
+        "contract": "0x74a596ECB5603a9005e95ED71a6A2C55c042F91C",
+        "name": "12PIECES",
+        "symbol": "12PIECES",
+        "primary": "#fe0102",
+        "secondary": "#fff",
+        "divvyFund": 0
+    },
+    {
+        "contract": "0xD6C8dd77411dc9B5FA8327063Cb2e671E243f419",
+        "name": "MESK",
+        "symbol": "$MESK",
+        "primary": "#f8d207",
+        "secondary": "#fff",
+        "divvyFund": 55000,
+        "bypassMin": true
+    },
+    {
+        "contract": "0x8aD3a26034956f8805c6b47a91b6cC6c384Cb7B3",
+        "name": "RAGE",
+        "symbol": "RAGE",
+        "primary": "#1890ba",
+        "secondary": "#fff",
+        "divvyFund": 230
+    },
+    {
+        "contract": "0x0B1965f78A6c6AF29A65C36A923d015b495d5bcf",
+        "name": "Alien Cult",
+        "symbol": "SAOM",
+        "primary": "#ce1211",
+        "secondary": "#fff",
+        "divvyFund": 0
+    },
+    {
+        "contract": "0x1C9F1de07E8F65Ee0A96e616F705735a1D0B031b",
+        "name": "Go Green Global",
+        "symbol": "GGGSMART",
+        "primary": "#0c7504",
+        "secondary": "#fff",
+        "divvyFund": 2
+    },
+    {
+        "contract": "0x6A6014231B86e111974a07842e4D5e29c7F01bD1",
+        "name": "Hold & Win",
+        "symbol": "HAW",
+        "primary": "#bababa",
+        "secondary": "#fff",
+        "divvyFund": 9
     },
     {
         "contract": "0x61AF471DF5c3889de136fA0a17dA651FEDA83A88",
@@ -129,29 +153,5 @@
         "primary": "#8c979d",
         "secondary": "#000",
         "divvyFund": 6.915542798
-    },
-    {
-        "contract": "0x0B1965f78A6c6AF29A65C36A923d015b495d5bcf",
-        "name": "Alien Cult",
-        "symbol": "SAOM",
-        "primary": "#ce1211",
-        "secondary": "#fff",
-        "divvyFund": 0
-    },
-    {
-        "contract": "0x8aD3a26034956f8805c6b47a91b6cC6c384Cb7B3",
-        "name": "RAGE",
-        "symbol": "RAGE",
-        "primary": "#1890ba",
-        "secondary": "#fff",
-        "divvyFund": 230
-    },
-    {
-        "contract": "0x74a596ECB5603a9005e95ED71a6A2C55c042F91C",
-        "name": "12PIECES",
-        "symbol": "12PIECES",
-        "primary": "#fe0102",
-        "secondary": "#fff",
-        "divvyFund": 0
     }
 ]
