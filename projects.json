@@ -128,7 +128,7 @@
         "symbol": "TOURO",
         "primary": "#E6AD00",
         "secondary": "#fff",
-        "divvyFund": 0
+        "divvyFund": 1000000000
     },
     {
         "contract": "0x0B1965f78A6c6AF29A65C36A923d015b495d5bcf",
