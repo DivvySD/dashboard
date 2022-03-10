@@ -131,6 +131,14 @@
         "divvyFund": 1000000000
     },
     {
+        "contract": "0x600861BEC39Dd4EFCb56b2994e03584aFE1EA77d",
+        "name": "Floem",
+        "symbol": "Floem",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
+    },
+    {
         "contract": "0x0B1965f78A6c6AF29A65C36A923d015b495d5bcf",
         "name": "Alien Cult",
         "symbol": "SAOM",
