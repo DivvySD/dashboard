@@ -203,14 +203,6 @@
         "divvyFund": 0
     },
     {
-        "contract": "0xF9c8E2ED729ab8106FD887c6720d8a77233f430d",
-        "name": "RER",
-        "symbol": "RER",
-        "primary": "#000",
-        "secondary": "#fff",
-        "divvyFund": 0
-    },
-    {
         "contract": "0xE6A2de529CE13753e83F7C1aaCAb5653276D99EA",
         "name": "SRS",
         "symbol": "SRS",
