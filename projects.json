@@ -145,6 +145,14 @@
         "primary": "#000",
         "secondary": "#fff",
         "divvyFund": 0
+    },   
+    {
+        "contract": "0x1fC5B7B49D4a72c97dF77D060Fa0c469B9B4978f",
+        "name": "Float",
+        "symbol": "Float",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
     },
     {
         "contract": "0x0B1965f78A6c6AF29A65C36A923d015b495d5bcf",
