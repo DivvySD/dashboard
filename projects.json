@@ -36,6 +36,14 @@
         "bypassMin": true
     },
     {
+        "contract": "0x3f90b1556e23b5e922828Afc6E3D967Ae1bBFf58",
+        "name": "OnlyFEG",
+        "symbol": "0NLYFEG",
+        "primary": "#11ADEB",
+        "secondary": "#fff",
+        "divvyFund": 0
+    },
+    {
         "contract": "0xCD409c394c126C96806D501FaeAb7e6dB0A74E10",
         "name": "BunnyDoge",
         "symbol": "BND",
@@ -115,22 +123,6 @@
         "divvyFund": 230
     },
     {
-        "contract": "0x3f90b1556e23b5e922828Afc6E3D967Ae1bBFf58",
-        "name": "OnlyFEG",
-        "symbol": "0NLYFEG",
-        "primary": "#11ADEB",
-        "secondary": "#fff",
-        "divvyFund": 0
-    },
-    {
-        "contract": "0x60D6A868e956b452e119533ebaEB0D0e16ABC253",
-        "name": "ANNA",
-        "symbol": "ANNA",
-        "primary": "#FF1BA5",
-        "secondary": "#fff",
-        "divvyFund": 0
-    },
-    {
         "contract": "0x9330720d5d6401941B736Ca9FC981437521D7275",
         "name": "Touro",
         "symbol": "TOURO",
@@ -143,6 +135,22 @@
         "name": "Floem",
         "symbol": "Floem",
         "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
+    },
+    {
+        "contract": "0x0f498d31832A66250473CcB166513a73F4F9398e",
+        "name": "UAF",
+        "symbol": "UAF",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
+    },
+    {
+        "contract": "0x60D6A868e956b452e119533ebaEB0D0e16ABC253",
+        "name": "ANNA",
+        "symbol": "ANNA",
+        "primary": "#FF1BA5",
         "secondary": "#fff",
         "divvyFund": 0
     },   
