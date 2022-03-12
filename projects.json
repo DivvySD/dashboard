@@ -139,6 +139,14 @@
         "divvyFund": 0
     },
     {
+        "contract": "0xE050de1C8F7c19A934DCf5f3851D40B206fb0183",
+        "name": "PapaFeg",
+        "symbol": "PAPA",
+        "primary": "#cbbd2c",
+        "secondary": "#fff",
+        "divvyFund": 0
+    },
+    {
         "contract": "0xdB0545037c5F9502b9A1655265562240CF889d22",
         "name": "Helping Hands",
         "symbol": "HELPINGHANDS",
