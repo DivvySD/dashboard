@@ -139,6 +139,14 @@
         "divvyFund": 0
     },
     {
+        "contract": "0xdB0545037c5F9502b9A1655265562240CF889d22",
+        "name": "Helping Hands",
+        "symbol": "HELPINGHANDS",
+        "primary": "#01B092",
+        "secondary": "#fff",
+        "divvyFund": 0
+    },
+    {
         "contract": "0x0f498d31832A66250473CcB166513a73F4F9398e",
         "name": "UAF",
         "symbol": "UAF",
