@@ -241,5 +241,13 @@
         "primary": "#000",
         "secondary": "#fff",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x62bF581D0465227bc9f5762b8B4a378fFB9fAC64",
+        "name": "OPOH",
+        "symbol": "OPOH",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
     }
 ]
