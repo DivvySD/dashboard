@@ -249,5 +249,13 @@
         "primary": "#000",
         "secondary": "#fff",
         "divvyFund": 0
+    },
+    {
+        "contract": "0xE6137D5160E5cbcc84dE0aF47848334402485A22",
+        "name": "LYNO",
+        "symbol": "LYNO",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
     }
 ]
