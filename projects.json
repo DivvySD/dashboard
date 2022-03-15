@@ -265,5 +265,13 @@
         "primary": "#872eff",
         "secondary": "#fff",
         "divvyFund": 0
+    },
+    {
+        "contract": "0xB57A768E7c3983A6a2Ed173eA36A8A861f1A54a5",
+        "name": "Wise INU",
+        "symbol": "WINU",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
     }
 ]
