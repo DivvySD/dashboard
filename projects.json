@@ -273,5 +273,15 @@
         "primary": "#000",
         "secondary": "#fff",
         "divvyFund": 0
+    } ,
+    {
+        "contract": "0xeA1e59765a29645a81490c574c136662393C1F1c",
+        "name": "JVGN",
+        "symbol": "JVGN",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
     }
+
+
 ]
