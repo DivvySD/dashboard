@@ -264,7 +264,8 @@
         "symbol": "VOLCANO",
         "primary": "#872eff",
         "secondary": "#fff",
-        "divvyFund": 0
+        "divvyFund": 0,
+        "locker": "0x882db6cf2Dbc6129C3855F44e54F10A7000120Ad"
     },
     {
         "contract": "0xB57A768E7c3983A6a2Ed173eA36A8A861f1A54a5",
