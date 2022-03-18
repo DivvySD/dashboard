@@ -329,6 +329,7 @@
         "symbol": "ARK",
         "primary": "#ed8e23",
         "secondary": "#FFF",
-        "divvyFund": 0
+        "divvyFund": 0,
+        "locker" : "0xEE9cAEA209e346188b30B2b78A97D72ac5Beeeb9"
     }
 ]
