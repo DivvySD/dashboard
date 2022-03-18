@@ -307,5 +307,14 @@
         "secondary": "#FFF",
         "divvyFund": 888000000000,
         "bypassMin": true
+    } ,
+    {
+        "contract": "0xad87730672A7A27d012d08dE0659017be7743910",
+        "name": "DIAMOND",
+        "symbol": "DIAMOND",
+        "primary": "#000",
+        "secondary": "#FFF",
+        "divvyFund": 888000000000,
+        "bypassMin": true
     }
 ]
