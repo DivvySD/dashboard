@@ -331,5 +331,13 @@
         "secondary": "#FFF",
         "divvyFund": 0,
         "locker" : "0xEE9cAEA209e346188b30B2b78A97D72ac5Beeeb9"
+    },
+    {
+        "contract": "0xFBac31F68390fD62d6ff7dC9778688C21d672B54",
+        "name": "GIGACHAD",
+        "symbol": "GIGACHAD",
+        "primary": "#000",
+        "secondary": "#FFF",
+        "divvyFund": 0
     }
 ]
