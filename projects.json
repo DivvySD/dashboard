@@ -314,5 +314,13 @@
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 0
+    },
+    {
+        "contract": "0xC22aEd04001E64ADb69BE80A670a597E2B4bfa5A",
+        "name": "SDSS",
+        "symbol": "SDSS",
+        "primary": "#000",
+        "secondary": "#FFF",
+        "divvyFund": 0
     }
 ]
