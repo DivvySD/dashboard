@@ -322,5 +322,13 @@
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x3A8b3C9c207479E696fC0Fb5393C3c248Cd6010D",
+        "name": "Ark Foundation",
+        "symbol": "Ark",
+        "primary": "#ed8e23",
+        "secondary": "#FFF",
+        "divvyFund": 0
     }
 ]
