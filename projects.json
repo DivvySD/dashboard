@@ -297,6 +297,7 @@
         "symbol": "PLAY",
         "primary": "#000",
         "secondary": "#fff",
-        "divvyFund": 0
+        "divvyFund": 0,
+        "locker": "0x8f340ec5a206a6637f927d95f732e19f65a134d3"
     }
 ]
