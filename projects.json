@@ -152,7 +152,8 @@
         "symbol": "HH",
         "primary": "#01B092",
         "secondary": "#fff",
-        "divvyFund": 0
+        "divvyFund": 0,
+        "locker": "0x4C81186b6a6c058A2d7A84a38a8f11fdf98F1702"
     },
     {
         "contract": "0x0f498d31832A66250473CcB166513a73F4F9398e",
