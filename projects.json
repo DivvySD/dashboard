@@ -340,7 +340,7 @@
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 0
-    } ,
+    },
     {
         "contract": "0xbe2e85Ec7F8C3debb41b4A04BF06a16e7E99bCef",
         "name": "Sad Duck",
@@ -348,7 +348,13 @@
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 0
+    },
+    {
+        "contract": "0xE8c889E4e921919d6254B1Fd69A2A380823Fd4a5",
+        "name": "PREZTokenSD",
+        "symbol": "PREZTOKENSD",
+        "primary": "#323956",
+        "secondary": "#FFF",
+        "divvyFund": 0
     }
-
-
 ]
