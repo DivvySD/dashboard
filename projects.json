@@ -147,9 +147,9 @@
         "divvyFund": 0
     },
     {
-        "contract": "0xdB0545037c5F9502b9A1655265562240CF889d22",
+        "contract": "0xA86B5cb651cE7675501560C971fC95d50fc6aEFD",
         "name": "Helping Hands",
-        "symbol": "HELPINGHANDS",
+        "symbol": "HH",
         "primary": "#01B092",
         "secondary": "#fff",
         "divvyFund": 0
