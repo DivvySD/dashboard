@@ -356,5 +356,13 @@
         "primary": "#323956",
         "secondary": "#FFF",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x3B241393Ee43B655dbb5B6B7dd13e578c1e52109",
+        "name": "Project M",
+        "symbol": "PRM",
+        "primary": "#000",
+        "secondary": "#FFF",
+        "divvyFund": 0
     }
 ]
