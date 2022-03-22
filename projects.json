@@ -255,7 +255,7 @@
         "contract": "0x533961F073F06A82E45E47A769F135B661f4Ae41",
         "name": "Volcano",
         "symbol": "VOLCANO",
-        "primary": "#872eff",
+        "primary": "#F05D17",
         "secondary": "#fff",
         "divvyFund": 0,
         "locker": "0x882db6cf2Dbc6129C3855F44e54F10A7000120Ad"
