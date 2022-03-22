@@ -131,14 +131,6 @@
         "divvyFund": 1000000000
     },
     {
-        "contract": "0x600861BEC39Dd4EFCb56b2994e03584aFE1EA77d",
-        "name": "Floem",
-        "symbol": "Floem",
-        "primary": "#000",
-        "secondary": "#fff",
-        "divvyFund": 0
-    },
-    {
         "contract": "0xE050de1C8F7c19A934DCf5f3851D40B206fb0183",
         "name": "PapaFeg",
         "symbol": "PAPA",
@@ -285,14 +277,6 @@
         "divvyFund": 0
     },
     {
-        "contract": "0x45f3E031b2620aF03A33722d0eC5870963DC415b",
-        "name": "Luxury SD",
-        "symbol": "LUXURYSD",
-        "primary": "#000",
-        "secondary": "#fff",
-        "divvyFund": 0
-    },
-    {
         "contract": "0xf36ba9EC305D178CD773C837923141b8dc455Aa4",
         "name": "Mr. Play",
         "symbol": "PLAY",
@@ -304,14 +288,6 @@
         "contract": "0x4E8a23060aebBF5F801b2a5BB7274043EF06ae11",
         "name": "FVKSOROS",
         "symbol": "FVKSOROS",
-        "primary": "#000",
-        "secondary": "#FFF",
-        "divvyFund": 0
-    },
-    {
-        "contract": "0xad87730672A7A27d012d08dE0659017be7743910",
-        "name": "DIAMOND",
-        "symbol": "DIAMOND",
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 0
