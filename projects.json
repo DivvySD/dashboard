@@ -365,5 +365,13 @@
         "secondary": "#FFF",
         "divvyFund": 0,
         "locker" : "0x15acb1c4f2e6529d9226c5611b6200c9a293cb83"
+    } ,
+    {
+        "contract": "0x820671E3647d8aaa22Feab05aaA14AB1665e06e1",
+        "name": "FOOK",
+        "symbol": "FOOK",
+        "primary": "#000",
+        "secondary": "#FFF",
+        "divvyFund": 0
     }
 ]
