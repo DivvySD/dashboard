@@ -350,5 +350,13 @@
         "secondary": "#FFF",
         "divvyFund": 0,
         "locker" : "0xD055f4DdEB5B9DF29C4D9957833bDAcd5b7505EE"
+    },
+    {
+        "contract": "0xeC9060c0A2926c13a2ddaD621d637d90a48FBAE0",
+        "name": "QUEENPLUSA",
+        "symbol": "QUEENPLUSA",
+        "primary": "#000",
+        "secondary": "#FFF",
+        "divvyFund": 0
     }
 ]
