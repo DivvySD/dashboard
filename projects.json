@@ -59,7 +59,8 @@
         "primary": "#000",
         "secondary": "#fff",
         "divvyFund": 5000,
-        "bypassMin": true
+        "bypassMin": true,
+        "locker" : "0x46dad2B7a40f43c11492f54fE3227735B74a5A73"
     },
     {
         "contract": "0x97d839ac3Ed733d7FD0d353d4573f7fb02d7A8E3",
