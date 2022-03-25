@@ -359,5 +359,13 @@
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x70472f6D573F629796D2e16bCFf383000e2c06E2",
+        "name": "dubDefi",
+        "symbol": "DUB",
+        "primary": "#af46fa",
+        "secondary": "#FFF",
+        "divvyFund": 0
     }
 ]
