@@ -318,5 +318,14 @@
         "primary": "#af46fa",
         "secondary": "#FFF",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x70472f6D573F629796D2e16bCFf383000e2c06E2",
+        "name": "Star Protocol",
+        "symbol": "STARSD",
+        "primary": "#000",
+        "secondary": "#FFF",
+        "divvyFund": 0,
+        "locker" : "0xc14aEE7549a6D9db79361321AdaD0f7aD6b8b9cB"
     }
 ]
