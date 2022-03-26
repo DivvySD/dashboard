@@ -116,14 +116,6 @@
         "bypassMin": true
     },
     {
-        "contract": "0x8aD3a26034956f8805c6b47a91b6cC6c384Cb7B3",
-        "name": "RAGE",
-        "symbol": "RAGE",
-        "primary": "#1890ba",
-        "secondary": "#fff",
-        "divvyFund": 230
-    },
-    {
         "contract": "0x9330720d5d6401941B736Ca9FC981437521D7275",
         "name": "Touro",
         "symbol": "TOURO",
@@ -138,15 +130,6 @@
         "primary": "#cbbd2c",
         "secondary": "#fff",
         "divvyFund": 0
-    },
-    {
-        "contract": "0xA86B5cb651cE7675501560C971fC95d50fc6aEFD",
-        "name": "Helping Hands",
-        "symbol": "HH",
-        "primary": "#01B092",
-        "secondary": "#fff",
-        "divvyFund": 0,
-        "locker": "0x4C81186b6a6c058A2d7A84a38a8f11fdf98F1702"
     },
     {
         "contract": "0x0f498d31832A66250473CcB166513a73F4F9398e",
@@ -213,14 +196,6 @@
         "divvyFund": 6.915542798
     },
     {
-        "contract": "0xb7CC21aC549950E9522d7ebADAE4f76db800B788",
-        "name": "JEMBUT",
-        "symbol": "JEMBUT",
-        "primary": "#000",
-        "secondary": "#fff",
-        "divvyFund": 0
-    },
-    {
         "contract": "0xE6A2de529CE13753e83F7C1aaCAb5653276D99EA",
         "name": "SRS",
         "symbol": "SRS",
@@ -268,14 +243,6 @@
         "primary": "#000",
         "secondary": "#fff",
         "divvyFund": 0
-    } ,
-    {
-        "contract": "0xeA1e59765a29645a81490c574c136662393C1F1c",
-        "name": "JVGN",
-        "symbol": "JVGN",
-        "primary": "#000",
-        "secondary": "#fff",
-        "divvyFund": 0
     },
     {
         "contract": "0x4E8a23060aebBF5F801b2a5BB7274043EF06ae11",
@@ -311,14 +278,6 @@
         "divvyFund": 0
     },
     {
-        "contract": "0xbe2e85Ec7F8C3debb41b4A04BF06a16e7E99bCef",
-        "name": "Sad Duck",
-        "symbol": "SDK",
-        "primary": "#000",
-        "secondary": "#FFF",
-        "divvyFund": 0
-    },
-    {
         "contract": "0xE8c889E4e921919d6254B1Fd69A2A380823Fd4a5",
         "name": "PREZTokenSD",
         "symbol": "PREZTOKENSD",
@@ -348,14 +307,6 @@
         "contract": "0xeC9060c0A2926c13a2ddaD621d637d90a48FBAE0",
         "name": "QUEENPLUSA",
         "symbol": "QUEENPLUSA",
-        "primary": "#000",
-        "secondary": "#FFF",
-        "divvyFund": 0
-    },
-    {
-        "contract": "0x9D15a48740F3D971F0B2eD0d3426299898347fa0",
-        "name": "BabyApe",
-        "symbol": "BABYAPE",
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 0
