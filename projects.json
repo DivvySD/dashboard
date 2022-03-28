@@ -337,5 +337,13 @@
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x9102a23EC513bD566A6909F7444cF92acf13960d",
+        "name": "OFFY",
+        "symbol": "OFFYSD",
+        "primary": "#000",
+        "secondary": "#FFF",
+        "divvyFund": 0
     }
 ]
