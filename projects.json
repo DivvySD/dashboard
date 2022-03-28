@@ -301,7 +301,8 @@
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 10000,
-        "locker" : "0xD055f4DdEB5B9DF29C4D9957833bDAcd5b7505EE"
+        "locker" : "0xD055f4DdEB5B9DF29C4D9957833bDAcd5b7505EE",
+        "faucet" : "0x5EF506AF51e1DEc1A53a10F3AD9Ba921525645F3"
     },
     {
         "contract": "0xeC9060c0A2926c13a2ddaD621d637d90a48FBAE0",
