@@ -300,7 +300,7 @@
         "symbol": "FOOK",
         "primary": "#000",
         "secondary": "#FFF",
-        "divvyFund": 5000,
+        "divvyFund": 10000,
         "locker" : "0xD055f4DdEB5B9DF29C4D9957833bDAcd5b7505EE"
     },
     {
