@@ -318,7 +318,8 @@
         "symbol": "DUB",
         "primary": "#af46fa",
         "secondary": "#FFF",
-        "divvyFund": 0
+        "divvyFund": 0,
+        "locker" : "0xcEf8b947D58014036F5D2A34d389324233c30Fa0"
     },
     {
         "contract": "0x910256697353E41dbFDED422acF910F740e85cE5",
