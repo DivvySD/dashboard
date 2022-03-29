@@ -345,5 +345,13 @@
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x86B3CeF2Bec9C2F7bE8441F8D075A882Ab534eAe",
+        "name": "Tsunami",
+        "symbol": "TSUNAMI",
+        "primary": "#e040fc",
+        "secondary": "#FFF",
+        "divvyFund": 0
     }
 ]
