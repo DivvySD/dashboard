@@ -344,5 +344,14 @@
         "primary": "#e040fc",
         "secondary": "#FFF",
         "divvyFund": 0
+    },
+    {
+        "contract": "0xD552654Ae9Cbb1Bd18fB5ecB3353C90ecE46470A",
+        "name": "Amaterashu",
+        "symbol": "ATH",
+        "primary": "#000",
+        "secondary": "#FFF",
+        "divvyFund": 0,
+        "locker": "0x9a2CAD8471c91E25c7a07ca2B805Dd6967238A04"
     }
 ]
