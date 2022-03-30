@@ -72,15 +72,6 @@
         "bypassMin": true
     },
     {
-        "contract": "0xf451CeD7a5C052532a2Cf635E80CCA65C357628F",
-        "name": "MOON SmartDeFi",
-        "symbol": "MOON",
-        "primary": "#018378",
-        "secondary": "#fff",
-        "divvyFund": 1100000,
-        "bypassMin": true
-    },
-    {
         "contract": "0x383A948C3B33A5F951A5f57c01DE4F192522Afe0",
         "name": "Smart Ants",
         "symbol": "SANTS",
