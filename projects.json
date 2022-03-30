@@ -277,15 +277,6 @@
         "divvyFund": 0
     },
     {
-        "contract": "0x3B241393Ee43B655dbb5B6B7dd13e578c1e52109",
-        "name": "Project M",
-        "symbol": "PRM",
-        "primary": "#000",
-        "secondary": "#FFF",
-        "divvyFund": 0,
-        "locker" : "0x15acb1c4f2e6529d9226c5611b6200c9a293cb83"
-    },
-    {
         "contract": "0x820671E3647d8aaa22Feab05aaA14AB1665e06e1",
         "name": "FOOK",
         "symbol": "FOOK",
@@ -311,15 +302,6 @@
         "secondary": "#FFF",
         "divvyFund": 0,
         "locker" : "0xcEf8b947D58014036F5D2A34d389324233c30Fa0"
-    },
-    {
-        "contract": "0x910256697353E41dbFDED422acF910F740e85cE5",
-        "name": "Star Protocol",
-        "symbol": "STARSD",
-        "primary": "#000",
-        "secondary": "#FFF",
-        "divvyFund": 0,
-        "locker" : "0xc14aEE7549a6D9db79361321AdaD0f7aD6b8b9cB"
     },
     {
         "contract": "0x1646a5DF00A97638DFf5560289Ab2b9E9b28C082",
