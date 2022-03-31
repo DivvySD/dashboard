@@ -14,7 +14,7 @@
         "symbol": "DIVVY",
         "primary": "#872eff",
         "secondary": "#FFF",
-        "divvyFund": 875000000000,
+        "divvyFund": 873000000000,
         "bypassMin": true
     },
     {
@@ -69,15 +69,6 @@
         "primary": "#02008d",
         "secondary": "#fff",
         "divvyFund": 1370,
-        "bypassMin": true
-    },
-    {
-        "contract": "0xf451CeD7a5C052532a2Cf635E80CCA65C357628F",
-        "name": "MOON SmartDeFi",
-        "symbol": "MOON",
-        "primary": "#018378",
-        "secondary": "#fff",
-        "divvyFund": 1100000,
         "bypassMin": true
     },
     {
@@ -286,15 +277,6 @@
         "divvyFund": 0
     },
     {
-        "contract": "0x3B241393Ee43B655dbb5B6B7dd13e578c1e52109",
-        "name": "Project M",
-        "symbol": "PRM",
-        "primary": "#000",
-        "secondary": "#FFF",
-        "divvyFund": 0,
-        "locker" : "0x15acb1c4f2e6529d9226c5611b6200c9a293cb83"
-    },
-    {
         "contract": "0x820671E3647d8aaa22Feab05aaA14AB1665e06e1",
         "name": "FOOK",
         "symbol": "FOOK",
@@ -322,15 +304,6 @@
         "locker" : "0xcEf8b947D58014036F5D2A34d389324233c30Fa0"
     },
     {
-        "contract": "0x910256697353E41dbFDED422acF910F740e85cE5",
-        "name": "Star Protocol",
-        "symbol": "STARSD",
-        "primary": "#000",
-        "secondary": "#FFF",
-        "divvyFund": 0,
-        "locker" : "0xc14aEE7549a6D9db79361321AdaD0f7aD6b8b9cB"
-    },
-    {
         "contract": "0x1646a5DF00A97638DFf5560289Ab2b9E9b28C082",
         "name": "Smart DOX",
         "symbol": "SDOX",
@@ -342,6 +315,31 @@
         "contract": "0x9102a23EC513bD566A6909F7444cF92acf13960d",
         "name": "OFFY",
         "symbol": "OFFYSD",
+        "primary": "#000",
+        "secondary": "#FFF",
+        "divvyFund": 0
+    },
+    {
+        "contract": "0x86B3CeF2Bec9C2F7bE8441F8D075A882Ab534eAe",
+        "name": "Tsunami",
+        "symbol": "TSUNAMI",
+        "primary": "#e040fc",
+        "secondary": "#FFF",
+        "divvyFund": 0
+    },
+    {
+        "contract": "0xD552654Ae9Cbb1Bd18fB5ecB3353C90ecE46470A",
+        "name": "Amaterashu",
+        "symbol": "ATH",
+        "primary": "#000",
+        "secondary": "#FFF",
+        "divvyFund": 0,
+        "locker": "0x9a2CAD8471c91E25c7a07ca2B805Dd6967238A04"
+    },
+    {
+        "contract": "0xbe2e85Ec7F8C3debb41b4A04BF06a16e7E99bCef",
+        "name": "SadDuck",
+        "symbol": "SDK",
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 0
