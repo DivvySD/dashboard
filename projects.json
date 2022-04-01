@@ -225,7 +225,8 @@
         "primary": "#F05D17",
         "secondary": "#fff",
         "divvyFund": 0,
-        "locker": "0x882db6cf2Dbc6129C3855F44e54F10A7000120Ad"
+        "locker": "0x882db6cf2Dbc6129C3855F44e54F10A7000120Ad",
+        "faucet" : "0x15ebe8a7FEeBf894d06C0F5310F86f4B7647a1c3"
     },
     {
         "contract": "0xB57A768E7c3983A6a2Ed173eA36A8A861f1A54a5",
@@ -241,7 +242,8 @@
         "symbol": "FVKSOROS",
         "primary": "#000",
         "secondary": "#FFF",
-        "divvyFund": 0
+        "divvyFund": 0,
+        "locker": "0x8f340Ec5a206a6637F927D95F732E19f65A134d3"
     },
     {
         "contract": "0xC22aEd04001E64ADb69BE80A670a597E2B4bfa5A",
@@ -334,7 +336,8 @@
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 0,
-        "locker": "0x9a2CAD8471c91E25c7a07ca2B805Dd6967238A04"
+        "locker": "0x9a2CAD8471c91E25c7a07ca2B805Dd6967238A04",
+        "faucet" : "0x8D84c16cC02B976A140B9713DaE194f86857D57B"
     },
     {
         "contract": "0xbe2e85Ec7F8C3debb41b4A04BF06a16e7E99bCef",
