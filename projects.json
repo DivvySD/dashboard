@@ -242,7 +242,8 @@
         "symbol": "FVKSOROS",
         "primary": "#000",
         "secondary": "#FFF",
-        "divvyFund": 0
+        "divvyFund": 0,
+        "locker": "0x8f340Ec5a206a6637F927D95F732E19f65A134d3"
     },
     {
         "contract": "0xC22aEd04001E64ADb69BE80A670a597E2B4bfa5A",
