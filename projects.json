@@ -347,5 +347,14 @@
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x3747f13b6dc6e8bd6c26d6af36fb29b5bff6047f",
+        "name": "Baby Kraken",
+        "symbol": "BABYKRAKENS",
+        "primary": "#000",
+        "secondary": "#FFF",
+        "divvyFund": 0
     }
 ]
+
