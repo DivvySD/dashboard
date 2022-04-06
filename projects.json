@@ -290,14 +290,6 @@
         "faucet" : "0x5EF506AF51e1DEc1A53a10F3AD9Ba921525645F3"
     },
     {
-        "contract": "0xeC9060c0A2926c13a2ddaD621d637d90a48FBAE0",
-        "name": "QUEENPLUSA",
-        "symbol": "QUEENPLUSA",
-        "primary": "#000",
-        "secondary": "#FFF",
-        "divvyFund": 0
-    },
-    {
         "contract": "0x70472f6D573F629796D2e16bCFf383000e2c06E2",
         "name": "dubDefi",
         "symbol": "DUB",
