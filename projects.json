@@ -363,5 +363,15 @@
         "primary": "#000",
         "secondary": "#FFF",
         "divvyFund": 100
+    },
+    {
+        "contract": "0xD0685D66a23F86594C5f74B69518ad32B6C2F411",
+        "name": "Volcano",
+        "symbol": "LAVA",
+        "primary": "#F05D17",
+        "secondary": "#fff",
+        "divvyFund": 0,
+        "locker": "0x882db6cf2Dbc6129C3855F44e54F10A7000120Ad",
+        "faucet" : "0x15ebe8a7FEeBf894d06C0F5310F86f4B7647a1c3"
     }
 ]
