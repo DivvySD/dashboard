@@ -1,5 +1,5 @@
 name: Listing Request
-description: Details about your projects
+description: Details about your projects. A full listing on the dashboard requires a deposit of 1% of total supply in the Divvy Fund (0xb80267ea7fa368374ee4d4bf10044778232adefe)
 title: "[Listing Request]: <project name>"
 labels: ["listing"]
 assignees: 
