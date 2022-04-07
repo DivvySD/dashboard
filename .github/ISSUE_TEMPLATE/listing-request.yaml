@@ -1,6 +1,6 @@
 name: Listing Request
 description: Details about your projects
-title: "[Listing Request]: "
+title: "[Listing Request]: <project name>"
 labels: ["listing"]
 assignees: 
  - FEGjoshua
@@ -28,8 +28,6 @@ body:
    attributes:
      label: Custom Color
      placeholder: HTML Hex Color Code (#BADA55)
-   validations:
-     required: true
  - type: checkboxes
    id: divvy_locker
    attributes:
