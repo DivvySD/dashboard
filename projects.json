@@ -15,8 +15,7 @@
         "primary": "#872eff",
         "secondary": "#FFF",
         "divvyFund": 872000000000,
-        "bypassMin": true,
-        "fegChartsID": "DIVVYfBNB-bsc-ae"
+        "bypassMin": true
     },
     {
         "contract": "0x252C41c6de973e4D31c770ED6a211BFAA699eB60",
