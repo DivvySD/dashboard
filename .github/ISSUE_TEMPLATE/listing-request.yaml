@@ -36,4 +36,4 @@ body:
      label: Interested in Divvy Locker and Lava Flow?
      description: Divvy Locker is a service to lock team tokens. Lava Flow is a faucet for your project. Both cost 1 BNB buy/burn of Volcano (LAVA) to setup.
      options:
-      - label: Yes
+      - label: "Yes"
