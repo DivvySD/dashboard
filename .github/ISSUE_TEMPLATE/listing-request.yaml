@@ -11,3 +11,29 @@ body:
      label: Contract Address
    validations:
      required: true
+ - type: input
+   id: project_name
+   attributes:
+     label: Project Name
+   validations:
+     required: true
+ - type: input
+   id: token_symbol
+   attributes:
+     label: Token Symbol
+   validations:
+     required: true
+ - type: input
+   id: primary_color
+   attributes:
+     label: Custom Color
+     placeholder: HTML Hex Color Code (#BADA55)
+   validations:
+     required: true
+ - type: checkboxes
+   id: divvy_locker
+   attributes:
+     label: Interested in Divvy Locker and Lava Flow?
+     description: Divvy Locker is a service to lock team tokens. Lava Flow is a faucet for your project. Both cost 1 BNB buy/burn of Volcano (LAVA) to setup.
+     options:
+      - label: Yes
