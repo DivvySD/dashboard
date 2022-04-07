@@ -1,0 +1,13 @@
+name: Listing Request
+about: Details about your projects
+title: "[Listing Request]: "
+labels: ["listing"]
+assignees: 
+ - FEGjoshua
+body:
+ - type: input
+   id: contract_address
+   attributes:
+     label: Contract Address
+   validations:
+     required: true
