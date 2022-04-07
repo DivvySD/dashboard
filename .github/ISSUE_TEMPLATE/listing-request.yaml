@@ -6,7 +6,8 @@ assignees:
  - FEGjoshua
 body:
  - type: markdown
-   value: "A full listing on the dashboard requires a deposit of 1% of the total supply in the Divvy Fund 0xb80267ea7fa368374ee4d4bf10044778232adefe"
+   attributes:
+     value: "A full listing on the dashboard requires a deposit of 1% of the total supply in the Divvy Fund 0xb80267ea7fa368374ee4d4bf10044778232adefe"
  - type: input
    id: contract_address
    attributes:
