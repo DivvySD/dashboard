@@ -1,4 +1,4 @@
-name: Listing Request
+name: Divvy Dashboard Listing Request
 description: Provide details about your project.
 title: "[Listing Request]: <project name>"
 labels: ["listing"]
