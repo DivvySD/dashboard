@@ -1,0 +1,40 @@
+name: Locker/Faucet Request
+description: Provide details about your project.
+title: "[Locker/Faucet Request]: <project name>"
+labels: ["locker","faucet"]
+assignees: 
+ - FEGjoshua
+body:
+ - type: markdown
+   attributes:
+     value: "Divvy Locker and Lava Flow contract setup and deployment costs 1BNB buy/burn of LAVA token"
+ - type: input
+   id: contract_address
+   attributes:
+     label: Contract Address
+   validations:
+     required: true
+ - type: input
+   id: project_name
+   attributes:
+     label: Project Name
+   validations:
+     required: true
+ - type: input
+   id: token_symbol
+   attributes:
+     label: Token Symbol
+   validations:
+     required: true
+ - type: input
+   id: locker_amount
+   attributes:
+     label: Amount for Divvy Locker
+   validations:
+     required: true
+ - type: input
+   id: faucet_amount
+   attributes:
+     label: Amount for Lava Flow
+   validations:
+     required: true
