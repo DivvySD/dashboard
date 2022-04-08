@@ -372,7 +372,7 @@
         "symbol": "ZEM",
         "primary": "#878787",
         "secondary": "#fff",
-        "divvyFund": 0,
+        "divvyFund": 0
     },
     {
         "contract": "0xA2589168601304f11E3B663c2e22465e401ce66B",
@@ -380,6 +380,6 @@
         "symbol": "ZET",
         "primary": "#000",
         "secondary": "#fff",
-        "divvyFund": 0,
+        "divvyFund": 0
     }
 ]
