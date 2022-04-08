@@ -29,12 +29,12 @@ body:
  - type: input
    id: locker_amount
    attributes:
-     label: Amount for Divvy Locker
+     label: Amount of tokens for Divvy Locker
    validations:
      required: true
  - type: input
    id: faucet_amount
    attributes:
-     label: Amount for Lava Flow
+     label: Amount of tokens for Lava Flow
    validations:
      required: true
