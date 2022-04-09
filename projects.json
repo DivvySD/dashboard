@@ -390,5 +390,13 @@
         "primary": "#000",
         "secondary": "#fff",
         "divvyFund": 0
+    },
+    {
+        "contract": "0xa35FE268de4924a87297BaD4DceB6B28B0351C49",
+        "name": "Casino MetaFi",
+        "symbol": "CMETAFI",
+        "primary": "#20294a",
+        "secondary": "#fff",
+        "divvyFund": 0
     }
 ]
