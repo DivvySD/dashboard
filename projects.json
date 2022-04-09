@@ -398,5 +398,13 @@
         "primary": "#20294a",
         "secondary": "#fff",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x439D7800041f0C09f144855344F9c74377DBb4B5",
+        "name": "Prymcoin",
+        "symbol": "SPC",
+        "primary": "#ffab40",
+        "secondary": "#fff",
+        "divvyFund": 0
     }
 ]
