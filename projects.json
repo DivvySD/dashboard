@@ -14,7 +14,7 @@
         "symbol": "DIVVY",
         "primary": "#872eff",
         "secondary": "#FFF",
-        "divvyFund": 860000000000,
+        "divvyFund": 0,
         "locker" : "0x9e934f0D82f447F3009271BF21c1718a4EdA4Fd7",
         "faucet" : "0x8d03574f62737ebB75EC0Be6EaA167AEFd82F916"
     },
