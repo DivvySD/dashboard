@@ -14,8 +14,9 @@
         "symbol": "DIVVY",
         "primary": "#872eff",
         "secondary": "#FFF",
-        "divvyFund": 872000000000,
-        "bypassMin": true
+        "divvyFund": 0,
+        "locker" : "0x9e934f0D82f447F3009271BF21c1718a4EdA4Fd7",
+        "faucet" : "0x8d03574f62737ebB75EC0Be6EaA167AEFd82F916"
     },
     {
         "contract": "0x252C41c6de973e4D31c770ED6a211BFAA699eB60",
@@ -365,5 +366,29 @@
         "divvyFund": 0,
         "locker": "0x882db6cf2Dbc6129C3855F44e54F10A7000120Ad",
         "faucet" : "0x15ebe8a7FEeBf894d06C0F5310F86f4B7647a1c3"
+    },
+    {
+        "contract": "0xE34F6e2e6AE7458b6A4a94b21f7e2360A6336aa1",
+        "name": "ZEM Token",
+        "symbol": "ZEM",
+        "primary": "#878787",
+        "secondary": "#fff",
+        "divvyFund": 0
+    },
+    {
+        "contract": "0xA2589168601304f11E3B663c2e22465e401ce66B",
+        "name": "ZET SMARTDEFI",
+        "symbol": "ZET",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
+    },
+    {
+        "contract": "0x5FB567240374882BD565160CC61eB8927cF58E6d",
+        "name": "Holding Hands",
+        "symbol": "HOHSD",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
     }
 ]
