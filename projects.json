@@ -381,5 +381,13 @@
         "primary": "#000",
         "secondary": "#fff",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x5FB567240374882BD565160CC61eB8927cF58E6d",
+        "name": "Holding Hands",
+        "symbol": "HOHSD",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
     }
 ]
