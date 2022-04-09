@@ -31,10 +31,3 @@ body:
    attributes:
      label: Custom Color
      placeholder: HTML Hex Color Code (#BADA55)
- - type: checkboxes
-   id: divvy_locker
-   attributes:
-     label: Interested in Divvy Locker and Lava Flow?
-     description: Divvy Locker is a service to lock team tokens. Lava Flow is a faucet for your project. For 1 BNB buy/burn of Volcano (LAVA) you get both.
-     options:
-      - label: "Yes"
