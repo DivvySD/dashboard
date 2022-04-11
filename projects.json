@@ -396,5 +396,13 @@
         "primary": "#ffab40",
         "secondary": "#fff",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x69b74406D9ce120cd77Fd2bCf8c2c80458DAAa8F",
+        "name": "FEG MARS",
+        "symbol": "FEM",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
     }
 ]
