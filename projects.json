@@ -412,5 +412,13 @@
         "primary": "#000",
         "secondary": "#fff",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x603eE2F233Ed5e36B55825D46B439c97990582fA",
+        "name": "BIG PUMP",
+        "symbol": "BIGPUMP",
+        "primary": "#03c6fc",
+        "secondary": "#fff",
+        "divvyFund": 0
     }
 ]
