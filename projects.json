@@ -404,5 +404,13 @@
         "primary": "#000",
         "secondary": "#fff",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x06cdC6557a2D7E64A553d4fa1df12b8A7D36879A",
+        "name": "BABY GENIUS",
+        "symbol": "BABYG",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
     }
 ]
