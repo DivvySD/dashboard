@@ -420,5 +420,13 @@
         "primary": "#03c6fc",
         "secondary": "#fff",
         "divvyFund": 0
+    },
+    {
+        "contract": "0x2AbAAa46964DcE8E00045F3711F3d04323864FB5",
+        "name": "GREENROCKET",
+        "symbol": "GREENROCKET",
+        "primary": "#000",
+        "secondary": "#fff",
+        "divvyFund": 0
     }
 ]
