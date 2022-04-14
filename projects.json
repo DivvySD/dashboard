@@ -419,7 +419,9 @@
         "symbol": "BIGPUMP",
         "primary": "#03c6fc",
         "secondary": "#fff",
-        "divvyFund": 0
+        "divvyFund": 0,
+        "locker": "0x8dCC58a1E9d4BCEf32CE8e108848bD119E53E4E4",
+        "faucet": "0xFDFCE2BAFAEF747539501D5e1ed661BFea6670c3"
     },
     {
         "contract": "0x2AbAAa46964DcE8E00045F3711F3d04323864FB5",
