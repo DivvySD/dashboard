@@ -169,7 +169,7 @@
         "symbol": "HAW",
         "primary": "#bababa",
         "secondary": "#fff",
-        "divvyFund": 9
+        "divvyFund": 0
     },
     {
         "contract": "0x61AF471DF5c3889de136fA0a17dA651FEDA83A88",
