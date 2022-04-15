@@ -8,4 +8,9 @@ body:
  - type: markdown
    attributes:
      value: "Divvy Dashboard Listings are now decentralized and stored in a smart contract. [Submit New Listing](https://divvysd.com/dashboard/#/list)\n\nA full listing on the dashboard requires a deposit of 1% of the total supply sent to the Divvy Fund 0xb80267ea7fa368374ee4d4bf10044778232adefe."
-
+- type: checkboxes
+  id: ok
+  attributes:
+    label: .
+    options:
+      - label: .
